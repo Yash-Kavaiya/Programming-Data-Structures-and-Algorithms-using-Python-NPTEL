@@ -144,4 +144,6 @@ This lecture establishes the foundation for understanding:
 - Basic programming constructs (variables, lists, loops, conditions)
 - The importance of organizing data (data structures)
 
+![](https://gist.githubusercontent.com/Yash-Kavaiya/fde7dd3884ef898b0a48533f65c6560a/raw/6f2444c9b84011b6e0c85ced29dec0d20adef969/pdsa1.svg)
+
 The GCD example demonstrates how a mathematical concept can be systematically implemented as a computer program, introducing fundamental programming concepts that will be built upon throughout the course.
