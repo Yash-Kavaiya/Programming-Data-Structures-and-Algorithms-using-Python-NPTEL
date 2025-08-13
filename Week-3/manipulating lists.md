@@ -247,6 +247,4 @@ def find_position(lst, value):
     return -1  # or raise exception, or return None
 ```
 
----
-
-*Note: This lecture emphasizes the fundamental concepts of list mutability and proper variable initialization - concepts that are crucial for avoiding common Python programming errors.*
+![](https://gist.githubusercontent.com/Yash-Kavaiya/fd71197776af5820bd965ad998b879a3/raw/ccf68b17c45b83c6ab9e20d452ad92aa9a2d55c4/list.svg)
